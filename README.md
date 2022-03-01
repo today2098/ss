@@ -30,7 +30,8 @@ $ iupdate.sh
 
 ## Description
 
-||Name|Description|
-|----|----|----|
-|[1]|iupdate.sh|To update and upgrade OS (Ubuntu).|
-|[2]|itree.sh|To display directory construct like tree.|
+|Name|Description|
+|----|----|
+|diary.sh|To keep a diary.|
+|itree.sh|To display directory construct like tree.|
+|iupdate.sh|To update and upgrade OS (Ubuntu).|
