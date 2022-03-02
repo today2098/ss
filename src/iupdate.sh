@@ -4,8 +4,8 @@ SECONDS=0
 
 echo "> sudo apt update"
 sudo apt update
-echo -e "\n> sudo apt upgrade"
-sudo apt upgrade
+echo -e "\n> sudo apt -y upgrade"
+sudo apt -y upgrade
 echo -e "\n> sudo apt -y autoremove"
 sudo apt -y autoremove
 
