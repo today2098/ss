@@ -33,5 +33,6 @@ $ iupdate.sh
 |Name|Description|
 |----|----|
 |diary.sh|To keep a diary.|
+|file_swap.sh|To swap a couple of files.|
 |itree.sh|To display directory construct like tree.|
 |iupdate.sh|To update and upgrade OS (Ubuntu).|
