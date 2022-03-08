@@ -2,6 +2,13 @@
 Shell Scripts working on Ubuntu.
 
 
+## Requirement
+
+- Ubuntu 20.04 (on WSL2)
+
+\* I done an operation confirmation on only Ubuntu (on WSL2).
+
+
 ## Usage
 
 ```
