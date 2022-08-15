@@ -2,14 +2,14 @@
 Shell Scripts working on Ubuntu.
 
 
-## Requirement
+### Requirement
 
-- Ubuntu 20.04 (on WSL2)
+- Ubuntu 20.04
 
-\* I done an operation confirmation on only Ubuntu (on WSL2).
+\* I did an operation confirmation on only Ubuntu (on WSL2).
 
 
-## Usage
+### Usage
 
 ```
 $ cd ss/src
@@ -24,7 +24,7 @@ $ chmod 755 iupdate.sh
 $ ./iupdate.sh
 ```
 
-If you want to be able to use it for command anywhere, put the script on a path opened.
+If you want to be able to use it for a command anywhere, put the script on an opened path.
 
 ```
 $ cd ss/src
@@ -35,11 +35,11 @@ $ iupdate.sh
 ```
 
 
-## Description
+### Description
 
-|Name|Description|
-|----|----|
-|diary.sh|To keep a diary.|
-|file_swap.sh|To swap a couple of files.|
-|itree.sh|To display directory construct like tree.|
-|iupdate.sh|To update and upgrade OS (Ubuntu).|
+|Reccomendation|Name|Description|
+|:----:|----|----|
+||diary.sh|To keep a diary.|
+||file_swap.sh|To swap a couple of files.|
+||itree.sh|To display directory construct like tree.|
+|☆|iupdate.sh|To update and upgrade packages.|
