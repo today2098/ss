@@ -12,4 +12,4 @@ echo -e "\n> sudo apt -y autoremove"
 sudo apt -y autoremove
 
 time=${SECONDS}
-echo -e "\nAll are completed. This process took ${time} seconds."
+echo -e "\nAll completed. This process took ${time} seconds."
